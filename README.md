@@ -1,3 +1,5 @@
+# AI Custom data trained chatbot link: https://mediafiles.botpress.cloud/8ea6fb1c-bb5d-4a81-a628-435889f914f9/webchat/bot.html 
+
 # Detailed Guide for Creating a Finance-Focused Chatbot with Botpress and GPT-4
 
 ## 1. Botpress Initialization:
